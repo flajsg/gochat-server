@@ -21,18 +21,16 @@ To login simply type:
 
     NICK mynickname
     
-End server will notify you that you are logged in:
+Server will send you a welcome message:
 
     << Welcome mynickname
+    
+You can now start sending messages. Every message is automatically sent when you hit enter and it is distributed to all connecter clients. 
     
 To exit the client type:
 
     exit
-    
-And you'll get a response:
-
-    << Bye!
-    
+        
 That's it!
 
 You can run another client in a third terminal to chat between them.
